@@ -1,3 +1,3 @@
-#DEMO
+# Demo
 
 This is a test.
